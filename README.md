@@ -1,8 +1,6 @@
 # CS-330 Computer Graphics & Visualization Project
 ## 3D Study Desk Scene Implementation
 
-![3D Scene of study desk with book, notebook, coffee mug, pencil, and stress ball](https://i.imgur.com/placeholder.jpg)
-
 ## Project Overview
 
 This project implements a 3D scene of a study desk featuring multiple objects created using OpenGL and C++. The scene includes:
